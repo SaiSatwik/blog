@@ -138,7 +138,7 @@ CGPA: 9.5/10
 
 ---
 ## Personal
-  **Programming Languages:** 27 <sup>th</sup> November, 1998 \
+  **Date of birth:** 27 <sup>th</sup> November, 1998 \
   **Interests:** Teaching, Music, Cricket\
   **Location:** Visakhapatnam, India\
   **Email:** satwik.kuppili@gmail.com\
