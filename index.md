@@ -121,7 +121,7 @@ Secured rank 159 from total participation of 55,654 in TCS CodeVita Session 8.
 ## Education
 
 #### Post Graduation in ML and AI
-Indian Institute of Information Technology, Bangalore (Jan 2022 - Feb 2023)
+International Institute of Information Technology, Bangalore (Jan 2022 - Feb 2023)
 
 #### Bachelor of Technology in Computer Science and Engineering
 Amrita Vishwa Vidyapeetham, Kollam (June 2016 - May 2020) \
