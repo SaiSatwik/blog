@@ -109,11 +109,11 @@ Secured rank 159 from total participation of 55,654 in TCS CodeVita Session 8.
   
 ---
 ## Skills
-* **Programming Languages:** Java, Python, JavaScript, C++, C, Matlab (Basic)
-* **Web:** HTML, CSS, AngularJS
-* **Database/Datastores:** MySQL, PostgreSQL, Corfu, Elasticsearch, Opensearch
-* **VCS:** Git
-* **Platforms:** Mac, Linux, Windows
+**Programming Languages:** Java, Python, JavaScript, C++, C, Matlab (Basic)
+**Web:** HTML, CSS, AngularJS
+**Database/Datastores:** MySQL, PostgreSQL, Corfu, Elasticsearch, Opensearch
+**VCS:** Git
+**Platforms:** Mac, Linux, Windows
 
 
 ---
