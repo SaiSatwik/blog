@@ -20,7 +20,7 @@ Link: [An Upper Bound for Sorting R<sub>n</sub> with LRE](https://doi.org/10.100
 ---
 #### Exact Upper Bound For Sorting R<sub>n</sub> with LE
 
-Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi/
+Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi\
 Journal: **Discrete Mathematics and Algorithms Journal** Volumne 12, Issue 03\
 Link: [Exact Upper Bound For Sorting R<sub>n</sub> with LE](https://doi.org/10.1142/S1793830920500330)
 
@@ -83,4 +83,19 @@ Secured rank 159 from total participation of 55,654 in TCS CodeVita Session 8.
 <center><img src="images/tcs_codevita.jpg"/></center>
 
 ---
+## Education
 
+#### Post Graduation in ML and AI
+Indian Institute of Information Technology, Bangalore (Jan 2022 - Feb 2023)
+
+#### Bachelor of Technology in Computer Science and Engineering
+Amrita Vishwa Vidyapeetham, Kollam (June 2016 - May 2020) \
+CGPA: 9.75/10
+
+#### Intermediate Education
+Sri Chaitanya Junior College, Visakhapatnam (June 2013 - May 2015) \
+Percentage: 97.4%
+
+#### Secondary Education
+Sri Chaitanya Techno School, Visakhapatnam (March 2013) \
+CGPA: 9.5/10
