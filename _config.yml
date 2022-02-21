@@ -1,6 +1,20 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Sai Satwik Kuppili
+logo: /assets/img/profilepic.jpg
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/saisatwikkuppili/">LinkedIn</a> |
+  <a href="https://scholar.google.co.in/citations?user=s3nuoYgAAAAJ&hl=en&oi=ao">Google Scholar</a> |
+  <a href="https://orcid.org/0000-0002-0280-127X">ORCiD</a> |
+  <a href="https://github.com/SaiSatwik">GitHub</a>
+  
+  <br>   
+  I'm working on Global Search, Machine Learning and NLP realated problems.
+  Has a strong grasp of Algorithms, Data Structures and Mathematical Theory. Has published algorithmic research articles.
+  Working with VMware R&D at NSXT Search team.
+  Pursuing Post Graduation Diploma in Machine Learning & AI from IIIT Bangalore 
+  Serving as a TPC member for 3ICT2021
+  Served as a reviewer on the editorial committee for the International Journal of Computing and Digital Systems'20 (IJCDS-2020)
+  <br>
+  </p>
 theme: jekyll-theme-minimal
