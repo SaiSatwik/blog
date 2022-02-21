@@ -1,5 +1,30 @@
 # Career Portfolio
 ---
+## Experience
+
+### R&D Member of Technical Staff, VMware
+
+#### Search <sub><sup>Java, Elasticsearch, Opensearch, JavaScript</sup></sub>
+
+* Involved in complete SDLC phases which include Analysis, Design, Implementation, Testing, Maintenance, Enhancement and Post Production Support for Global Search functionality on VMware NSX-T.
+* Designed, developed and maintained Global Search UI and backend, Advance Search and Advance Filter functionalities written in Javascript, Java, Opensearch as the core search platform.
+* Contributed to the major enhancements in Search architecture which overall improved the re-indexing time and query execution time in scaled environments.
+
+#### Telemetry and In-product Feedback <sub><sup>JavaScript</sup></sub>
+* Created and designed Telemetry feature which helped to get the better insights into the user’s activity on NSX-T product.
+* Developed and implemented In-Product Feedback feature which helped to collect contextual feedback from the customers during the product experience.
+
+#### Log Analyser Tool Python <sub><sup>Python</sup></sub>
+* Developed an intelligent tool which parses the logs for the bugs/issues in Production and generates a summary out of it using Machine Learning. This helped bugs to get assigned to the right team for further investigation without any delay.
+
+---
+### R&D Intern, VMware
+
+#### NLP Search on NSX-T <sub><sup>Java, Python, Rasa, AngularJS<sub><sup>
+* Developed a tool which extends the global search functionality of the NSX-T Data center beyond free text and DSL search and enabling users to specify the query in a more natural way.
+* With this tool, user entered natural language input will be converted into the query that is understood by the underlying system.
+
+---
 ## Patents and Publications
 
 #### Database-Platform-Agnostic Processing of Natural Language Queries
