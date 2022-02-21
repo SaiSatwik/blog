@@ -83,6 +83,7 @@ Received Achieve Our Award for delivering best quality features on time and keep
 ### Best Paper Award
 
 Received Best Paper Award in Computing Track out of 306 accepted papers at CoCoNet-2019 Conference.
+<center><img src="images/best_paper.png"/></center>
 
 ---
 ### R&D best coder award
@@ -109,11 +110,11 @@ Secured rank 159 from total participation of 55,654 in TCS CodeVita Session 8.
   
 ---
 ## Skills
-**Programming Languages:** Java, Python, JavaScript, C++, C, Matlab (Basic)
-**Web:** HTML, CSS, AngularJS
-**Database/Datastores:** MySQL, PostgreSQL, Corfu, Elasticsearch, Opensearch
-**VCS:** Git
-**Platforms:** Mac, Linux, Windows
+**Programming Languages:** Java, Python, JavaScript, C++, C, Matlab (Basic)\
+**Web:** HTML, CSS, AngularJS\
+**Database/Datastores:** MySQL, PostgreSQL, Corfu, Elasticsearch, Opensearch\
+**VCS:** Git\
+**Platforms:** Mac, Linux, Windows\
 
 
 ---
@@ -133,3 +134,12 @@ Percentage: 97.4%
 #### Secondary Education
 Sri Chaitanya Techno School, Visakhapatnam (March 2013) \
 CGPA: 9.5/10
+  
+
+---
+## Personal
+  **Programming Languages:** 27 <sup>th</sup> November, 1998 \
+  **Interests:** Teaching, Music, Cricket
+  **Location:** Visakhapatnam, India
+  **Email:** satwik.kuppili@gmail.com
+  **Contact Number:** +91 7730876239
