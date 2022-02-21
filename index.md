@@ -11,6 +11,7 @@ Gold Medalist in Computer Science and Engineering (2016-2020) at Amrita Universi
 ### Achieve Our Award
 
 Received Achieve Our Award for delivering best quality features on time and keeping quality bar high.
+<center><img src="images/aob.jpg"/></center>
 
 ---
 ### Best Paper Award
