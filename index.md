@@ -106,6 +106,15 @@ My team selected for ACM-ICPC 2019 Kanpur Regional.
 
 Secured rank 159 from total participation of 55,654 in TCS CodeVita Session 8.
 <center><img src="images/tcs_codevita.jpg"/></center>
+  
+---
+## Skills
+* **Programming Languages:** Java, Python, JavaScript, C++, C, Matlab (Basic)
+* **Web:** HTML, CSS, AngularJS
+* **Database/Datastores:** MySQL, PostgreSQL, Corfu, Elasticsearch, Opensearch
+* **VCS:** Git
+* **Platforms:** Mac, Linux, Windows
+
 
 ---
 ## Education
