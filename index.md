@@ -4,38 +4,41 @@
 
 #### Database-Platform-Agnostic Processing of Natural Language Queries
 
-Inventors: Priyanka Luthra, **Sai Satwik Kuppili**, Shrinivas Sharad Parashar, Sarat Chandra Annadata.</br> 
-Application No.: 17/499,901</br>
-Filed on: October 13, 2021</br>
+Inventors: Priyanka Luthra, **Sai Satwik Kuppili**, Shrinivas Sharad Parashar, Sarat Chandra Annadata./
+Application No.: 17/499,901/
+Filed on: October 13, 2021/
 Grant: Pending
 
 ---
 #### An Upper Bound for Sorting R<sub>n</sub> with LRE
 
-Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi, Venkata Vyshnavi Ravella, C.K. Phani Datta </br>
-Conference: 10<sup>th</sup> International Advance Computing Conference accepted this paper for Oral Presentation and publication in **Springer CCIS Lecture Notes** <br>
+Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi, Venkata Vyshnavi Ravella, C.K. Phani Datta/
+Conference: 10<sup>th</sup> International Advance Computing Conference accepted this paper for Oral Presentation and publication in **Springer CCIS Lecture Notes** /
 Link: [An Upper Bound for Sorting R<sub>n</sub> with LRE](https://doi.org/10.1007/978-981-16-0404-1_21)
+<center><img src="images/iacc.jpg"/></center>
 
 ---
 #### Exact Upper Bound For Sorting R<sub>n</sub> with LE
 
-Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi </br>
-Journal: **Discrete Mathematics and Algorithms Journal** Volumne 12, Issue 03 </br>
+Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi/
+Journal: **Discrete Mathematics and Algorithms Journal** Volumne 12, Issue 03/
 Link: [Exact Upper Bound For Sorting R<sub>n</sub> with LE](https://doi.org/10.1142/S1793830920500330)
 
 ---
 #### An Upper Bound For Sorting Permutations With A Transposition Tree
 
-Authors: Devika K Das, Bhadrachalam Chitturi, **Sai Satwik Kuppili** </br>
+Authors: Devika K Das, Bhadrachalam Chitturi, **Sai Satwik Kuppili**/
 Conference: 3<sup>rd</sup> International Conference on Computing and Network Communications accepted this paper for Oral Presentation and publication in **Elsevier Procedia Computer Science Journal**.
 Link: [An Upper Bound For Sorting Permutations With A Transposition Tree](https://doi.org/10.1016/j.procs.2020.04.008)
+<center><img src="images/coconet.png"/></center>
 
 ---
 #### An Upper Bound for sorting R<sub>n</sub> with LE
 
-Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi, Srinath T </br>
-Conference: 3<sup>rd</sup> International Conference On Advances In Computing And Data Sciences, India accepted my paper for Oral Presentation and publication in **Springer CCIS Lecture Notes** </br>
+Authors: **Sai Satwik Kuppili**, Bhadrachalam Chitturi, Srinath T/
+Conference: 3<sup>rd</sup> International Conference On Advances In Computing And Data Sciences, India accepted my paper for Oral Presentation and publication in **Springer CCIS Lecture Notes**/
 Link: [An Upper Bound for sorting R<sub>n</sub> with LE](https://doi.org/10.1007/978-981-13-9942-8_23)
+<center><img src="images/icacds.png"/></center>
 
 ---
 ## Awards
