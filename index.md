@@ -2,7 +2,7 @@
 ---
 ## Experience
 
-### R&D Member of Technical Staff, VMware
+### R&D Member of Technical Staff 2, VMware
 
 #### Search <sub><sup>Java, Elasticsearch, Opensearch, JavaScript</sup></sub>
 
